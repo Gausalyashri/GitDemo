@@ -1,1 +1,3 @@
-<root><message>Hello from master branch</message></root>
+
+<root><message>Hello from master and GitWork branch</message></root>
+<note>Updated in GitWork</note>
